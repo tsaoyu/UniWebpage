@@ -1,0 +1,16 @@
+dist: trusty
+sudo: required
+language:
+ -generic
+cache:
+ -apt
+
+before_install:
+ -chmod +x jemdoc
+
+install:
+ -mkdir ./dist
+
+script:
+ -./jemdoc -c mysite.conf *.jemdoc
+ 
