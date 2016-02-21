@@ -1,12 +1,9 @@
 sudo: required
 language: python
-
-before_script:
- -chmod +x jemdoc
-
-install:
- -mkdir ./dist
-
-script:
- -./jemdoc -c mysite.conf *.jemdoc
- 
+before_script: -chmod +x jemdoc
+install: -mkdir ./dist
+script: -./jemdoc -c mysite.conf *.jemdoc
+env:
+  global:
+  - secure: VSMhFvJjlQ8Sk4DE5aCVGNIUvOshy4trSTe1LgOuAnbEYV8kXSocPMkrKMvKi1LOKC38bFfkQWthp+WhYDGfjUWFxyZ96V83EiDKJmWz2Ej/+xKfopnwNpatl8+tBNqtTkg28sr96QV3Hgj6X9YmQxUXCctd3Xtffvsm1A/4mEi8aoK0hGsjdy7EQ01FXqoVrPN8Zr1t932oCD4ZAcKp1mtYhVqZfZjVc/q7p8AtOn4S/sl/xTfhBD1JyAiVQ/4bIekQD+fwZsc2cqMiUjOXBlHGDdku3mTEHwBLtvX1X+HjKlAZc62gp82p/ny1iWDvFfibK/2wZFhen7ddSLLwubGGN3aOFz16POJMoNc+PQFJu23OUVb74QQEp5S6kY3Y8rldqkumHt++jSBoDOvvS2okLIVrVxmr2fFTHRB+s2yxjyS9SK49n79Ax77c8Cid9NyJu/IXQeprna3a6pGfxWdAC8dwCY6Xvx/t4Jjsk/tB6sXobSYzjh10xG3ysK6pd6eodUd7HbWuE+WZa3zs3f2mIUAvzk8Wd9SWFIwy7OjH3pfv62ndiM3uGnF2wfT5uGuhkDQfxepa6GBb92o1GnySYB4cXU6pm0/UJqZgi7v9yQ4il2JECYoLf6bgFdwwGEcii9triUilviW36P4xwjbyzFKRP9bna6SwFrLlui4=
+  - secure: F1quf8cDl/nnHJ71LNeJDRhyRx3vkcQjb484jO+ICGNzE23xp+LjGY33QSfewo85sMpq/ZjJRkBoCWTPhrGSagqMGWHGMoRmDmcyrJ3NS/VLdb069fRtk99EcZrAPTFN0ol01wirbeeerhtEXIst6aCCl/+XC+odrntkR2D8LtoWq0Mi0V5WdjCzfIKz7lGYrjaAo2Ij0gfcUgc5iVjdJI0kVvY1SOrtS0peRnNjaQLDrU8v++3EyXIyb4uOePQSJBhH5SH/vjCzCfT6w3ux+6px6Ijb43Dz02L0hKxW/CSvaj/mVlu0oxiPG1ZYTcL088fgOBbbXqPOMDP5JlImGTPrYGpS3kdvpdQDr4+eKqLbUiLPQcvdHkHhP+RG2a+UhtOxDXRVTU/DUReXjvnHHqTzRikJAarVeovoxMUqKB9jGithkDD+OY/SBFZzGPt/ehzUlHHm5F/XIoQNh4Rt9lg2MInvf+lRwFbJNgWoKn/LU/t8M63yuM1MlF46WR4ie76yAvOrz6V6CjaypcxLiy21dHCf1sLRk5DXhO6lwKBFENEhaSfCcwnHk//MBFsBgxyNxSi8IAkhZ3IEUIJQdrscNe27ikXpCgsJM7tO+y04IDUWeQUBvITIfATo3/e5C/5cndf6GawPCjC0YVqHHEUzulrTGbkp/ZaspyTZcGU=
