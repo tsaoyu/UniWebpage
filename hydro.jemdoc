@@ -1,23 +1,54 @@
 # jemdoc: menu{MENU}{hydro.html}
 = Hydro Contest
 
-Hydro contest is the first international student competition to tackle the issues of energy efficiency in maritime transport. Student teams from different countries join this competition with their unique solutions and compete for three prizes in lightweight, heavyweight and long distance race. The first two are speed races with 40 kg and 200 kg weight on boat. Last one is endurance race with 40 kg load. In these races, each teams were given the same battery and engine. And they shall build a boat can fit into a 2 by 2.5 by 2.5 meters box. 
+Hydro Contest is the first international student competition dedicated to naval energy efficiency. Student teams from different countries join this competition with their own design. And they need build their own boat(s) to compete in three categories: light weight speed race, heavy weight speed race and long distance race. Each teams were given the same battery and engine for their boat. The fastest team get the prize for the speed race, and most endurance team the get the distance race prize.
 
-== Team of Southampton University
+== Team of Southampton University 2015
 
 ~~~
 {}{img_left}{team.jpg}{Team member of 2015}{360}{240}{}
-University of Southampton is the first UK team join this competition. In 2015, we were 7 students from different disciplines in naval architecture, computation fluid dynamic, yacht design, ocean engineering and marine engineering. And I was working as electrical engineering (self-learning :) in our team. 
- 
-Our vehicle is shown on the left. We use Catamaran design to improve the stability of the boat. There were two T-shape foils at the front to lift the boat. And a Z-pod propeller was installed to for better maneuverability. The boat was constructed with plywood and carbon fiber. It was the fastest and lightest boat on the water.
+In 2015, seven of us with different background (in naval architecture, computation fluid dynamic, yacht design, ocean engineering and marine engineering) voluntarily formed a team. We represent University of Southampton as the first UK team in this competition. I was working on electrical system including radio control system, rudder actuator and engine speed controller.
+
+Our boat is shown on the left. This hydrofoil catamaran was initially designed as luxury yacht by Pietro and Matthieu as their final design project in Solent University. To overcome logistic difficulty, hydrofoil for lightweight race is interchangeable with a underwater pod for heavy weight race. A single pod can carry to up 100 kg payload. The electrical engine was integrated with rudder like a Z-pod. It was the fastest and lightest boat on the water.
+
+ [http://www.southampton.ac.uk/engineering/news/2015/03/30-southampton-hydro-team.page Report on Faculty Blog]
 
 ~~~
 
 From left to right: Javier, Pietro, Mario, Nicholas, Matthieu, Me, Louis
 Credit: Pierrick Contin
 
+== Team of Southampton University 2016
+~~~
+{}{img_left}{hydro2016.jpg}{Team member of 2016}{360}{240}{}
+Based on the lessons we have learnt in 2015, we completely redesign the structure of central pod to deal with transverse strength issue. And I help to design a more reliable electronic system to address overheat issue. Our team applied the most cutting technology including autopilot system and real-time video transmission system on board.
+
+Among 22 teams in this edition, we are:
+
+Lightweight race: 6th
+
+Heavyweight race: 4th
+
+Endurance race: 4th
+
+Communications Prize Winners
+
+[https://isoton.wordpress.com/2016/07/27/building-a-boat-of-the-future-to-race-on-lake-geneva/ Report on University Blog]
+
+
+~~~
+
+From left to right: Jacob, Ariadna, Daniel, Tobi, Pier, Rob, Dave, Harry
+Credit: Pierrick Contin (again)
+
+== Become a part of 2017 team
+Would you like join us to present your idea in efficient shipping? Join 2017 Hydro team.
+Our team is formed by students from 1st year undergrads to PhD students. And you can always find you position in our team.
+From 2017 and on, I am not an active member anymore, but I will work as consultant in electronics system for the team.
+
+
+
 == Support our team
 
-We are looking for sponsor for our 2016 Hydro Contest team. 
-If you are interested please send me an email at [Yu.Cao@soton.ac.uk]. Our management team will contact you later.
-
+We are looking for sponsor for our 2017 Hydro Contest team.
+If you are interested please send me an email at [Yu.Cao@soton.ac.uk]. Our management team will get in touch with you soon.

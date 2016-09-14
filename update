@@ -1,4 +1,0 @@
-#!/bin/zsh
-./jemdoc -c mysite.conf *.jemdoc
-scp *.html yc6n13@ssh.soton.ac.uk:~/public_html
-echo "Update and upload successful!"
