@@ -1,15 +1,19 @@
 # jemdoc: menu{MENU}{index.html}
 = About me
 
-My name is Yu Cao (Tony), PhD student in [http://www.southampton.ac.uk/engineering/research/groups/fsi.page Fluid Structure Interactions] research group.
+My name is Yu Cao (Tony, 曹宇) pronunciation: {{<audio controls>
+  <source src="name.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>}}
 
-Shipping is important to the world economy, 90 % of goods in international trade are carried by the sea.  And it is still the only cost-effective way to move massive goods and raw material around the world. At same time, ship consume huge amount of energy and cause serious greenhouse gas emission issue. To tackle this problem, we can use renewable energy as a power source for marine vehicles as well as a range of marine operation.
-With emerging renewable energy harvesting technologies, we can reduce the fuel consumption and improve the efficiency of marine vehicle.
+I am a postgraduate research student in [http://www.southampton.ac.uk/engineering/research/groups/fsi.page Fluid Structure Interactions] research group at University of Southampton.
 
-However, it is challenging to use renewable energy on marine vehicles. The variable and unpredictable nature of renewable energy make it hard to guarantee the performance and reliability of renewable energy system. On the land, a conventional way to deal with this issue, is to build multiple renewable energy generators at different locations and then connect them to a grid connected power management system. Limited space on marine vehicles make this approach no longer applicable.
+In my research, I am working towards a sustainable future of maritime transport. Specifically, I am interested in developing renewable energy system to support a range of maritime operations. It sounds straightforward before we realized the uncertainty and variation issue of renewable energy sources, complexity in non-linear system modeling, and difficulty in system optimization with rival design criteria.
 
-A novel design that can effective use the space and improve the performance of renewable system is the key point for marine renewable energy system. Our solution is hybrid renewable energy system that can harvest various sources at the same time. An intelligent power management system will be developed to monitor and control the power flow in this hybrid renewable energy system. Our general hybrid renewable energy system design framework will benefit a wide range of marine vehicles.
-
+Hybrid renewable energy system has shown the potential in mitigate the uncertainty and variation issue from renewable sources. And with more computation resources, general heuristic optimization techniques like Genetic Algorithm and Simulated Annealing can solve non-linear system optimization problem together with rival design criteria.
 
 
-My other research interests are: autonomous system, control theory and system engineering.
+
+This research is generously supported by Lloyd Register Foundation.
+
+My other interests including: autonomous system, control theory and system engineering.
