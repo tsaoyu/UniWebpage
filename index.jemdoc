@@ -1,19 +1,10 @@
 # jemdoc: menu{MENU}{index.html}
 = About me
 
+Welcome to my University homepage! Hope you can find something interesting or useful here.
 My name is Yu Cao (Tony, 曹宇) pronunciation: {{<audio controls>
   <source src="name.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>}}
 
 I am a postgraduate research student in [http://www.southampton.ac.uk/engineering/research/groups/fsi.page Fluid Structure Interactions] research group at University of Southampton.
-
-In my research, I am working towards a sustainable future of maritime transport. Specifically, I am interested in developing renewable energy system to support a range of maritime operations. It sounds straightforward before we realized the uncertainty and variation issue of renewable energy sources, complexity in non-linear system modeling, and difficulty in system optimization with rival design criteria.
-
-Hybrid renewable energy system has shown the potential in mitigate the uncertainty and variation issue from renewable sources. And with more computation resources, general heuristic optimization techniques like Genetic Algorithm and Simulated Annealing can solve non-linear system optimization problem together with rival design criteria.
-
-
-
-This research is generously supported by Lloyd Register Foundation.
-
-My other interests including: autonomous system, control theory and system engineering.
