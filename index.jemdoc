@@ -1,10 +1,23 @@
 # jemdoc: menu{MENU}{index.html}
-= About me
+= Home
 
-Welcome to my University homepage! Hope you can find something interesting or useful here.
-My name is Yu Cao (Tony, 曹宇) pronunciation: {{<audio controls>
-  <source src="name.mp3" type="audio/mpeg">
-  Your browser does not support the audio tag.
-</audio>}}
+~~~
+{}{img_left}{profile.jpg}{Profile}{240}{320}{}
+My name is Yu Cao, a PhD candidate in [http://www.southampton.ac.uk/engineering/research/groups/fsi.page Fluid Structure Interactions] research group at University of Southampton.
 
-I am a postgraduate research student in [http://www.southampton.ac.uk/engineering/research/groups/fsi.page Fluid Structure Interactions] research group at University of Southampton.
+I am a researcher on hybrid renewable energy for *moving* systems, also, an enthusiast on *maritime* robots.
+
+I wish my work could contribute to a greener, smarter and better future for the ocean.
+
+
+News:
+
+- [https://maritimerenewable.github.io/PyResis/ PyResis] Python ship propulsion Resistance estimation package is released under MIT open-source license. (Oct. 2017)
+
+- We defend our champion in World Robotics Sailing Competition 2017 at Norway! (Sept. 2017)
+
+- I passed my transfer VIVA and officially become a PhD candidate :)  (Sept. 2017)
+
+~~~
+
+* Opinions expressed on this page are solely by my own, it neither represent my research group nor the University.

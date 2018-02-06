@@ -1,6 +1,13 @@
 # jemdoc: menu{MENU}{cv.html}
 =CV
 
+Name: Yu Cao, 曹宇
+pronounce as: {{<audio controls>
+  <source src="name.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag please find out on Google Translate.
+</audio>}}
+
+
 == Education
 
 2014 \~ 2015: Master of Science /with Distinction/, *Marine Engineering *, University of Southampton
@@ -10,6 +17,8 @@
 2010 \~ 2014: Bachelor of Engineering, *Naval Architecture and Ocean Engineering*, Wuhan University of Technology
 
 == Awards and Scholarships
+
+Sept. 2017: 1st place in Micro-sailbot Class, World Sailing Robot Competition, Norway
 
 Sept. 2016: 1st place in Micro-sailbot Class, World Sailing Robot Competition, Portugal
 
@@ -24,16 +33,9 @@ June. 2012: Merit student, Wuhan University of Technology, China
 
 == Skills
 
-Languages: Chinese as mother-tongue, English professional proficiency
+Languages: Chinese as mother-tongue, English with professional proficiency
 
-Computer skills: Linux, Python, C, Git; LaTeX, Illustrator, TiKZ;
-                 Mathematica, MATLAB, !Maple; SolidWorks, AutoCAD, ANSYS(AQWA);
-                 Basic HTML, CSS, WordPress
-
-Cooking skill: Feed myself and make my friends happy level
+Computer skills: Python, C; Linux, Git; Mathematica, MATLAB; LaTeX, Illustrator, TiKZ; HTML, CSS; SolidWorks, AutoCAD, ANSYS(AQWA);
 
 
-
-== Publications
-
-Working hard on that...
+Cooking skill: Yummy
