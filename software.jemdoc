@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{software.html}
+
+= Softwares
+
+Software developed by me during the course of my study.
+
+== PyResis
+
+[https://maritimerenewable.github.io/PyResis/ PyResis] is a Python package for propulsion resistance estimation. Based on empirical method, PyResis can quickly estimate resistance and propulsion power for a range of ships.
+
+
+== $D^3 HRE$
+[https://github.com/tsaoyu/D3HRE $D^3 HRE$] (Data-Driven Dynamic Hybrid Renewable Energy framework) is the flagship software handle temporal and spatial hybrid renewable energy design and optimisation problems. It featured in energy resource data automatic download and process, built in bio-inspired global optimisation capability and design report with advance interactive data visualisation.
+
+== synthetic_solar
+[https://github.com/MaritimeRenewable/synthetic_solar Synthetic solar] is a `battery included` synthetic hourly solar radiation generation tool. As a fork of original, this version shipped with global monthly clearness index which make it possible to generate hourly solar radiation at location with given latitude and longitude.
+
+= Personal software collections
+
+A collection of useful software packages for researchers.
+
+
+== Reference manager
+
+[http://papersapp.com Papers*] Award winning reference manager software. Probably the best reference manager on macOS. 
+
+== Graphic tools
+
+[http://ipe.otfried.org IPE editor] An easy use drawing editor to create high quality vector format figures. Compatibility with LaTeX source enables perfect mathematical expressions in publications level figures.
